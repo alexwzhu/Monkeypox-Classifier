@@ -1,6 +1,6 @@
 # A Deep Learning Approach to Classifying MonkeyPox from Lesion Images
 
-### Link to Paper - [Download PDF](docs/paper.docx.pdf)
+### Link to Paper - [Download PDF](docs/paper.pdf)
 
 
 >Following the outbreak of the COVID-19 virus, the Monkeypox virus poses a new threat of a potential global
