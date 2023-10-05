@@ -13,8 +13,7 @@ of machine learning classifiers including XGBoost, K-Nearest Neighbors, and Logi
 respective accuracies of 95.81%, 97.07%, and 97.28%.
 
 ## Sample of Augmented Dataset
-```
 ![](images/image1.png)
-```
+
 
 An in-depth paragraph about your project and overview of use.
