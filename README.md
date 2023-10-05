@@ -1,6 +1,9 @@
 # A Deep Learning Approach to Classifying MonkeyPox from Lesion Images
 
-Following the outbreak of the COVID-19 virus, the Monkeypox virus poses a new threat of a potential global
+### Link to Paper - [Download PDF](docs/paper.docx.pdf)
+
+
+>Following the outbreak of the COVID-19 virus, the Monkeypox virus poses a new threat of a potential global
 pandemic. Although the severity of the Monkeypox virus is not yet at the level of COVID-19, important
 measures are needed to prevent another major outbreak. Deep learning methods have proven efficient at
 classifying monkeypox lesions, which can help with preventing the spread of the virus as it can be a substitute
@@ -13,10 +16,9 @@ of machine learning classifiers including XGBoost, K-Nearest Neighbors, and Logi
 respective accuracies of 95.81%, 97.07%, and 97.28%.
 
 ## Sample of Augmented Dataset
-![](images/image4.png)
+>>![](images/image4.png)
 
 ## Model Workflow
-![](images/image3.png)
+>>![](images/image3.png)
 
 
-An in-depth paragraph about your project and overview of use.
