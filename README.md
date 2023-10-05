@@ -14,7 +14,7 @@ respective accuracies of 95.81%, 97.07%, and 97.28%.
 
 ## Sample of Augmented Dataset
 
-![image](Images/Screen Shot 2023-10-04 at 6.42.21 PM.png)
+![image](Screen Shot 2023-10-04 at 6.42.21 PM.png)
 
 
 An in-depth paragraph about your project and overview of use.
